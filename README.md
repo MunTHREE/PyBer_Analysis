@@ -13,4 +13,6 @@ There is a description of the differences in ride-sharing data among the differe
 
 ![Line Chart](https://github.com/MunTHREE/PyBer_Analysis/blob/main/Challenge_fare_summary.png "Line Chart")
 
+![Weekly Fares](https://github.com/MunTHREE/PyBer_Analysis/blob/main/Weekly_Fares.png "Weekly Fares")
+
 ## Analysis
