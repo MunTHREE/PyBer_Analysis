@@ -7,6 +7,6 @@ The goal of this analysis was to find a way to view ride sharing data and find o
 
 ## Results
 
-![Line Chart]( "Line Chart")
+![Line Chart](https://github.com/MunTHREE/PyBer_Analysis/blob/main/Challenge_fare_summary.png "Line Chart")
 
 ## Analysis
